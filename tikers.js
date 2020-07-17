@@ -1,0 +1,30 @@
+let tikers = [
+    "nio",
+    "F",
+    "XLF",
+    "GE",
+    "SPY",
+    "NCLH",
+    "CCL",
+    "WFC",
+    "BAC",
+    "EEM",
+    "BA",
+    "DAL",
+    "nio",
+    "SPXS",
+    "TZA",
+    "IWM",
+    "SPXU",
+    "UVXY",
+    "SLV",
+    "INFY",
+    "RCL",
+    "TNA",
+    "T",
+    "ABEV",
+    "MRO",
+
+]
+
+module.exports= tikers
