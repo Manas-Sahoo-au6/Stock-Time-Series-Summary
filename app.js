@@ -70,11 +70,11 @@ setTimeout(()=>{
       let VWAP = TotalPriceVol / TotalVol.volume;
   
       console.log(`VWAP ${VWAP}`);
-      const MainData = { ...Data, VWAP: VWAP, High: High, Low: Low };
+      const MainData = { ...Data,  High: High, Low: Low,VWAP: VWAP };
       Data= MainData
       // console.log(MainData);
       // Data.push([High,  Low ,VWAP])
-      arr.push([Data.VWAP,Data.High,Data.Low])
+      arr.push([Data.High,Data.Low,Data.VWAP])
       console.log(`High data from object ${Data}`)
     }
   
