@@ -7,7 +7,7 @@ ___
 
 ___
 
-## step2: How to run the code 
+## step1: How to run the code 
   ### requirement 1: authentication token for tingoapi by signup
   ### requirement 2:  Google credentials for googlesheetapi
   ### requirement 3: node install in computer 
@@ -22,4 +22,4 @@ ___
 
 
 
-# Note the api give only 5 to 8 requests for free trial so if api token got expires get new token by creating new account in tingoapi
+### `Note the api give only 5 to 8 requests for free trial so if api token got expires get new token by creating new account in tingoapi`
